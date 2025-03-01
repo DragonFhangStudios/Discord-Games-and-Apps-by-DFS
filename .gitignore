@@ -1,0 +1,27 @@
+# Ignore build artifacts
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore user-specific settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+
+# Ignore dependency folders
+node_modules/
+packages/
+.vscode/
+.env
+
+# Ignore compiled Python & other temp files
+__pycache__/
+*.pyc
+.DS_Store
