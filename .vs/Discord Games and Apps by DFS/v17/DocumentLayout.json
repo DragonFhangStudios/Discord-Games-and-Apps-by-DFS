@@ -1,12 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\!Dragon Fhang Studio stuff\\!C# Programs\\Discord Games and Apps by DFS\\Discord-Games-and-Apps-by-DFS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A067-B0AC-40B2-B7BF-310A37858185}|Discord Games and Apps by DFS.csproj|e:\\!dragon fhang studio stuff\\!c# programs\\discord games and apps by dfs\\discord-games-and-apps-by-dfs\\apps\\exampleapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4D8A067-B0AC-40B2-B7BF-310A37858185}|Discord Games and Apps by DFS.csproj|solutionrelative:apps\\exampleapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "E:\\!Dragon Fhang Studio stuff\\!C# Programs\\Discord Games and Apps by DFS\\Discord-Games-and-Apps-by-DFS\\Apps\\ExampleApp\\Window1.xaml",
+              "RelativeDocumentMoniker": "Apps\\ExampleApp\\Window1.xaml",
+              "ToolTip": "E:\\!Dragon Fhang Studio stuff\\!C# Programs\\Discord Games and Apps by DFS\\Discord-Games-and-Apps-by-DFS\\Apps\\ExampleApp\\Window1.xaml",
+              "RelativeToolTip": "Apps\\ExampleApp\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T03:51:34.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
