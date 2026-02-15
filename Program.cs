@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace Discord_Games_and_Apps_by_DFS
+namespace DiscordGamesAndAppsByDFS
 {
 	public class Program
 	{
