@@ -5,6 +5,7 @@
     <UseWPF>true</UseWPF>
     <TargetFramework>net8.0-windows</TargetFramework>
     <RootNamespace>Discord_Games_and_Apps_by_DFS</RootNamespace>
+    <PublishReadyToRun>true</PublishReadyToRun>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
