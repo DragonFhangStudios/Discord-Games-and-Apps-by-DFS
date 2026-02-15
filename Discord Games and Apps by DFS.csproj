@@ -13,7 +13,6 @@
     <Folder Include="Tests\" />
     <Folder Include="RaspberryPi\" />
     <Folder Include="Data\" />
-    <Folder Include="Views\" />
   </ItemGroup>
 
 </Project>
