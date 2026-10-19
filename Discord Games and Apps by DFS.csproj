@@ -9,6 +9,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <!-- This project sits at the repo root, so keep it from compiling the other projects' sources. -->
+  <ItemGroup>
+    <Compile Remove="src\**;Tests\**;Bots\**" />
+    <None Remove="src\**;Tests\**;Bots\**" />
+  </ItemGroup>
+
   <ItemGroup>
     <Folder Include="Tests\" />
     <Folder Include="RaspberryPi\" />

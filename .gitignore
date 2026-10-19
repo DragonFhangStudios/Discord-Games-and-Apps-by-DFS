@@ -25,3 +25,11 @@ packages/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Visual Studio cache
+.vs/
+
+# Local bot data
+*.db
+*.db-shm
+*.db-wal
